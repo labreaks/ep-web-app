@@ -1,17 +1,13 @@
-## EP Web App Starter Kit — "isomorphic" web app boilerplate based on [React Starter Kit](http://www.reactstarterkit.com)
+## EP Web App based on [React Starter Kit](http://www.reactstarterkit.com)
 
-> [React Starter Kit](http://www.reactstarterkit.com) is an opinionated
-> boilerplate for web development built on top of Facebook's
+> [EP Web App](https://github.com/labreaks/ep-web-app) is a
+> boilerplate for internal EP web development built on top of Facebook's
 > [React](https://facebook.github.io/react/) library,
 > [Node.js](https://nodejs.org/) / [Express](http://expressjs.com/) server
 > and [Flux](http://facebook.github.io/flux/) architecture. Containing
 > modern web development tools such as [Webpack](http://webpack.github.io/),
 > [Babel](http://babeljs.io/) and [BrowserSync](http://www.browsersync.io/).
-> Helping you to stay productive following the best practices. A solid starting
-> point for both professionals and newcomers to the industry.
-
-Demo: http://demo.reactstarterkit.com &nbsp;|&nbsp;
-Join [#react-starter-kit](https://gitter.im/kriasoft/react-starter-kit) chatroom on Gitter to stay up to date.
+> Starting point for creating responsive, reactive web applications.
 
 ### Documentation
 
@@ -66,8 +62,7 @@ Join [#react-starter-kit](https://gitter.im/kriasoft/react-starter-kit) chatroom
 Just clone the repo and start hacking:
 
 ```shell
-$ git clone -o react-starter-kit -b master --single-branch \
-      https://github.com/kriasoft/react-starter-kit.git MyApp
+$ git clone -o ep-web-app -b master --single-branch https://github.com/labreaks/ep-web-app.git MyApp
 $ cd MyApp
 $ npm install                   # Install Node.js components listed in ./package.json
 $ npm start                     # Compile and launch
@@ -99,18 +94,6 @@ $ npm run deploy                # or, `npm run deploy -- --production`
 ```
 
 For more information see `tools/deploy.js`.
-
-### How to Update
-
-You can always fetch and merge recent changes from this repo back into
-your own project:
-
-```shell
-$ git checkout master
-$ git fetch react-starter-kit
-$ git merge react-starter-kit/master
-$ npm install
-```
 
 ### How to Test
 

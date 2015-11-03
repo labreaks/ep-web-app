@@ -1,5 +1,4 @@
-## EP Web App Starter Kit — "isomorphic" web app boilerplate based on 
-[React Starter Kit](http://www.reactstarterkit.com)
+## EP Web App Starter Kit — "isomorphic" web app boilerplate based on [React Starter Kit](http://www.reactstarterkit.com)
 
 > [React Starter Kit](http://www.reactstarterkit.com) is an opinionated
 > boilerplate for web development built on top of Facebook's
@@ -125,17 +124,6 @@ $ npm test
 Test any javascript module by creating a `__tests__/` directory where
 the file is. Append `-test.js` to the filename and [Jest](https://facebook.github.io/jest/) will do the rest.
 
-### Our Sponsors
-
-[![Rollbar](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/rollbar.png)](https://rollbar.com/?utm_source=reactstartkit(github)&utm_medium=link&utm_campaign=reactstartkit(github)) &nbsp;&nbsp;&nbsp;
-[![Makers Academy](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/makers-academy.png)](http://www.makersacademy.com/?utm_source=ReactStarterKit&utm_medium=link&utm_campaign=ReactStarterKitGithub)
-
-### Related Projects
-
-  * [React Static Boilerplate](https://github.com/koistya/react-static-boilerplate) — Generates static websites from React components
-  * [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) — Boilerplate for authoring JavaScript/React.js libraries
-  * [React Decorators](https://github.com/kriasoft/react-decorators) — A collection of higher-order React components
-
 ### Learn More
 
   * [Getting Started with React.js](http://facebook.github.io/react/)
@@ -147,12 +135,6 @@ the file is. Append `-test.js` to the filename and [Jest](https://facebook.githu
   * [Flow - A static type checker for JavaScript](http://flowtype.org/)
   * [The Future of React](https://github.com/reactjs/react-future)
   * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
-
-### Support
-
-  * [#react-starter-kit](https://gitter.im/kriasoft/react-starter-kit) on Gitter — Feedback, feature requests, Q&A
-  * [@koistya](https://www.codementor.io/koistya) on Codementor — Mentorship, code reviews
-  * support@kriasoft.com — Customization requests, help with GraphQL/Relay back-ends etc.
 
 ### License
 

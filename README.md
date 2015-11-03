@@ -1,6 +1,5 @@
-## React Starter Kit — "isomorphic" web app boilerplate
-
-[![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
+## EP Web App Starter Kit — "isomorphic" web app boilerplate based on 
+[React Starter Kit](http://www.reactstarterkit.com)
 
 > [React Starter Kit](http://www.reactstarterkit.com) is an opinionated
 > boilerplate for web development built on top of Facebook's
